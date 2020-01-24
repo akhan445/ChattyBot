@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HyperSkill.iml" filepath="$PROJECT_DIR$/.idea/modules/HyperSkill.iml" group="HyperSkill" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task.iml" group="HyperSkill/Simple_Chatty_Bot-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task_main.iml" group="HyperSkill/Simple_Chatty_Bot-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task_test.iml" group="HyperSkill/Simple_Chatty_Bot-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="HyperSkill/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="HyperSkill/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="HyperSkill/util" />
+    </modules>
+  </component>
+</project>
